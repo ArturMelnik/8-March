@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>I love you</title>
 </head>
 <body style="font-family: sans-serif; background-color: palevioletred; text-align: center;">
     <p style="font-size: 25px; background-color: plum; border: 5px solid purple; font-family: cursive;"><b>I love you, my Angel, mumy and grandmother!</b></p>
